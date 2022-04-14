@@ -1,0 +1,2 @@
+The CC_Fradu.csv file contains over 90k records of online credit card transactions.
+The Goal is to correctly classify whether the transaction if fraud or not as indicatedi the column TRN_TYPE. 
